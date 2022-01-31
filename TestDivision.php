@@ -10,7 +10,7 @@ class TestDivision extends TestCase
 
         $resultat = division(10,5);
 
-        $this->assertEquals($resultat,3, "Le resultat devrait etre 2");
+        $this->assertEquals($resultat,2, "Le resultat devrait etre 2");
        
     }
 //fbfdfdf
