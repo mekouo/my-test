@@ -16,7 +16,7 @@ class TestDivision extends TestCase
 //fbfdfdf
 
     
-     function testdiviserPar0 (){
+     /*function testdiviserPar0 (){
         try{
             $resultat = division(10,0);
             echo "ça aurait du planter";
@@ -26,7 +26,7 @@ class TestDivision extends TestCase
             if($e != "Division par 0 impossible")
             echo "Pas la bonne erreur";
         }
-    }
+    }*/
     
 
 }
